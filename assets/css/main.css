@@ -77,10 +77,6 @@ html, body {
   height: 100%;
   overflow-x: hidden;
   width: 100%; }
-  @media screen and (max-height: 600px) {
-    html, body {
-      height: auto;
-      min-height: 100%; } }
 
 body {
   display: -moz-flex;
